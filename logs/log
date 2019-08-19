@@ -1,0 +1,364 @@
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/manage.py', reloading
+INFO _internal.py:88  * Restarting with stat
+DEBUG manage.py:34 This is a debug log.
+INFO manage.py:35 This is a info log.
+WARNING manage.py:36 This is a warning log.
+ERROR manage.py:37 This is a error log.
+CRITICAL manage.py:38 This is a critical log.
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/manage.py', reloading
+INFO _internal.py:88  * Restarting with stat
+DEBUG manage.py:34 This is a debug log.
+INFO manage.py:35 This is a info log.
+WARNING manage.py:36 This is a warning log.
+ERROR manage.py:37 This is a error log.
+CRITICAL manage.py:38 This is a critical log.
+DEBUG manage.py:34 This is a debug log.
+INFO manage.py:35 This is a info log.
+WARNING manage.py:36 This is a warning log.
+ERROR manage.py:37 This is a error log.
+CRITICAL manage.py:38 This is a critical log.
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET / HTTP/1.1" 500 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG manage.py:29 This is a debug log.
+INFO manage.py:30 This is a info log.
+WARNING manage.py:31 This is a warning log.
+ERROR manage.py:32 This is a error log.
+CRITICAL manage.py:33 This is a critical log.
+DEBUG manage.py:36 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:34:13] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/manage.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:10 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:49:08] "GET / HTTP/1.1" 200 -
+DEBUG views.py:10 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:49:09] "GET / HTTP/1.1" 200 -
+DEBUG views.py:10 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:49:09] "GET / HTTP/1.1" 200 -
+DEBUG views.py:10 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:49:09] "GET / HTTP/1.1" 200 -
+DEBUG views.py:10 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 09:49:10] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:13 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 10:21:10] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/manage.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/html/index.html HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/css/main.css HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/js/main.js HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/logo.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/person01.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/news_pic.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/person.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/pic_code.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/clock.png HTTP/1.1" 304 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:31:51] "GET /static/news/images/hit_icon.png HTTP/1.1" 304 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:33:16] "GET / HTTP/1.1" 200 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:34:25] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:34:25] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:38:57] "GET / HTTP/1.1" 200 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:39:19] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:39:20] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/css/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/js/main.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/logo.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/person01.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/news_pic.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/person.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/pic_code.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/clock.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /static/news/images/hit_icon.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:43:57] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 11:45:26] "GET /static/news/images/shutoff.png HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/index/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:48:42] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:48:42] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:48:48] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:48:48] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:11] "GET /static/news/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:11] "GET /static/news/css/main.css HTTP/1.1" 200 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/css/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/js/main.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/logo.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/person01.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/news_pic.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/person.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/pic_code.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/clock.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /static/news/images/hit_icon.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:50:45] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:51:22] "GET /passport/image_code?code_id=f063fee5-0ce6-49a1-a1bd-7a2289d508c7 HTTP/1.1" 404 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 14:51:22] "GET /static/news/images/shutoff.png HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:12:26] "GET /passport/image_code?code_id=904b05b3-73f1-414b-9e5b-f6a89f125796 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:12:36] "GET /passport/image_code?code_id=c2239775-a5eb-4c87-a621-31ac61db7e7c HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:12:42] "GET /passport/image_code?code_id=4b90a6f2-c04c-4bf7-9485-f8c3310bbb64 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:12:42] "GET /passport/image_code?code_id=e5040574-5971-44b8-a88a-f40e0949ea5b HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:12:42] "GET /passport/image_code?code_id=c2e5bf38-e9b7-401a-b217-930b3eb6df8b HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:12:42] "GET /passport/image_code?code_id=8ba04131-a4d5-4847-b051-42a758fdc36f HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:16:46] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:16:46] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:16:48] "GET /passport/image_code?code_id=3ae53796-053c-4b0c-92c5-d18b1ff66e41 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:16:54] "GET /passport/image_code?code_id=9cb8f53a-79f2-4736-8377-95ca27196209 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:26:08] "GET /passport/image_code?code_id=0503d24b-3adc-43f0-aa61-595854697258 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:26:11] "GET /passport/image_code?code_id=32adc31f-23b8-4fa6-a982-fd538c4c9504 HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 15:47:19] "GET /passport/image_code?code_id=e29c31f9-40d3-4ce4-a84e-6c2949c06410 HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 16:24:26] "GET /passport/image_code?code_id=1d0995e0-4dd0-42a7-bf58-42e939d07599 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 16:24:28] "GET /passport/image_code?code_id=224123cb-1f75-4115-b63e-36731d8371b8 HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 16:25:07] "GET /passport/image_code?code_id=1cb10717-8007-4915-b476-bc57b9d7c0cd HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 16:41:51] "GET /passport/image_code?code_id=41504ae4-4a72-41dd-a5f1-b95536b47da6 HTTP/1.1" 200 -
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88  * Detected change in '/Users/chenqian/Desktop/深圳python23期/information23/info/modules/passport/views.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:13:17] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:13:17] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:13:18] "GET /passport/image_code?code_id=b9404bec-a369-4260-82ed-1f96eb780b7c HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:23:28] "GET /passport/image_code?code_id=b2cf443b-ca0e-4d57-a9b2-fbe8f13e6055 HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:17] "GET /passport/image_code?code_id=f1dc7b42-9764-4807-a8d2-6135061cd752 HTTP/1.1" 200 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:24] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:24] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/css/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/js/main.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/logo.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/person01.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/news_pic.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/person.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/pic_code.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/clock.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /static/news/images/hit_icon.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:25:55] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:26:12] "GET /passport/image_code?code_id=9371b033-3739-47bc-bc67-4c536482b208 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:26:12] "GET /static/news/images/shutoff.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:26:25] "POST /passport/sms_code HTTP/1.1" 405 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:27:12] "GET /passport/image_code?code_id=352046e0-f98a-4932-b275-894f8b6687ac HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:27:34] "GET /passport/image_code?code_id=ab12e7e8-3cb9-4c28-8f36-01e80ba2c1de HTTP/1.1" 200 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/css/main.css HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/js/main.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/js/index.js HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/logo.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/person01.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/news_pic.jpg HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/person.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/pic_code.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/clock.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /static/news/images/hit_icon.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:37] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:41] "GET /passport/image_code?code_id=f1c87193-9411-4e34-a77a-e1d78d215158 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:41] "GET /static/news/images/shutoff.png HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:48] "GET /passport/image_code?code_id=8e652c19-807d-4bc8-8d5e-d35e85ab9459 HTTP/1.1" 200 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:28:57] "POST /passport/sms_code HTTP/1.1" 400 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:29:30] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:29:30] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:29:33] "GET /passport/image_code?code_id=d47edd08-5e72-44fc-97a1-b2188367ce90 HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:29:41] "POST /passport/sms_code HTTP/1.1" 500 -
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 631-358-196
+DEBUG views.py:15 Flask 记录debug log
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:30:20] "GET / HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:30:20] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:30:25] "GET /passport/image_code?code_id=8e9f8696-b2bf-4027-b793-9aa99403942e HTTP/1.1" 200 -
+INFO _internal.py:88 127.0.0.1 - - [20/Jan/2019 17:30:35] "POST /passport/sms_code HTTP/1.1" 200 -

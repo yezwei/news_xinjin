@@ -1,13 +1,12 @@
 from logging.handlers import RotatingFileHandler
-from flask import Flask, g, render_template
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from redis import StrictRedis
-from flask_wtf.csrf import CSRFProtect, generate_csrf
+from flask_wtf.csrf import CSRFProtect
 # session拓展工具：将flaks中的session存储调整到redis
 from flask_session import Session
 import logging
 from config import config_dict
-from info.utils.common import do_ranklist_class, get_user_info
 import pymysql
 # python2和python3数据库相互转化使用
 pymysql.install_as_MySQLdb()
@@ -69,38 +68,7 @@ def create_app(config_name):
     # 1.提取cookie中的csrf_token
     # 2.如果数据是通过表单发送：提取表单中的csrf_token， 如果数据是通过ajax请求发送：提取请求头中的字段X-CSRFToken
     # 3.对比这两个值是否一致
-    CSRFProtect(app)
-
-    # 利用钩子函数在每一次请求之后设置csrf_token值到cookie中
-    @app.after_request
-    def set_csrf_token(response):
-        """补充csrf_token的逻辑"""
-
-        # 1.生成csrf_token随机值
-        csrf_token = generate_csrf()
-        # 2.获取响应对象，统一设置csrf_token值到cookie中
-        response.set_cookie("csrf_token", csrf_token)
-        # 3.返回响应对象
-        return response
-
-    # 通过app对象将函数添加到系统过滤器中
-    app.add_template_filter(do_ranklist_class, "ranklist_class")
-
-    # 捕获404异常，返回404统一页面
-    # 注意： 需要接受err信息
-    @app.errorhandler(404)
-    @get_user_info
-    def handler_404notfound(err):
-
-        # 1. 查询用户信息
-        user = g.user
-        data = {
-            "user_info": user.to_dict() if user else None
-        }
-
-        # 2. 返回404页面
-        return render_template("news/404.html", data=data)
-
+    # CSRFProtect(app)
 
     # 5.创建Flask_session工具类对象：将flask.session的存储从 服务器`内存` 调整到 `redis`数据库
     Session(app)
@@ -111,21 +79,9 @@ def create_app(config_name):
     from info.modules.index import index_bp
     app.register_blueprint(index_bp)
 
-    # 添加注册模块蓝图
+    # 添加注册模块兰提
     from info.modules.passport import passport_bp
     app.register_blueprint(passport_bp)
-
-    # 注册新闻的蓝图对象
-    from info.modules.news import news_bp
-    app.register_blueprint(news_bp)
-
-    # 注册个人中心的蓝图对象
-    from info.modules.profile import profile_bp
-    app.register_blueprint(profile_bp)
-
-    # 注册后台管理的蓝图对象
-    from info.modules.admin import admin_bp
-    app.register_blueprint(admin_bp)
 
     # 返回app对象
     return app
